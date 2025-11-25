@@ -14,3 +14,8 @@ Il terzo comando che abbiamo visto serve per aggiungere elementi alla **staging 
 ```bash
 git add .
 ```
+
+Il quarto comando che abbiamo visto serve per effettuare un commit:
+```bash
+git commit -m "Aggiunto..."
+```
