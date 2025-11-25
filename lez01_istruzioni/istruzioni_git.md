@@ -9,3 +9,8 @@ Il secondo comando che abbiamo visto, per visualizzare lo status della repositor
 ```bash
 git status
 ```
+
+Il terzo comando che abbiamo visto serve per aggiungere elementi alla **staging area**:
+```bash
+git add .
+```
